@@ -1,0 +1,67 @@
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.deps.json
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.json
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.dev.json
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.csprojAssemblyReference.cache
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfoInputs.cache
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfo.cs
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.deps.json
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.json
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.dev.json
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.csprojAssemblyReference.cache
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfoInputs.cache
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfo.cs
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/bin/Debug/netcoreapp3.1/TravelPlanner
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/bin/Debug/netcoreapp3.1/TravelPlanner.deps.json
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.json
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.dev.json
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/bin/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/bin/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/obj/Debug/netcoreapp3.1/TravelPlanner.csprojAssemblyReference.cache
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfoInputs.cache
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfo.cs
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/obj/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/joshbloom/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner Correct/obj/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/bin/Debug/netcoreapp3.1/TravelPlanner.deps.json
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.json
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.dev.json
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/bin/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/bin/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/obj/Debug/netcoreapp3.1/TravelPlanner.csprojAssemblyReference.cache
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfoInputs.cache
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfo.cs
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/obj/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/jb/Desktop/APD/Day_1/CE01_Refactor/TravelPlanner_Key/obj/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/bin/Debug/netcoreapp3.1/TravelPlanner.deps.json
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.json
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.dev.json
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/bin/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/bin/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/obj/Debug/netcoreapp3.1/TravelPlanner.csprojAssemblyReference.cache
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/obj/Debug/netcoreapp3.1/TravelPlanner.csproj.CoreCompileInputs.cache
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfoInputs.cache
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfo.cs
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/obj/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/obj/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/joshbloom/Desktop/APD/Lessons/Day_1/CE01_Refactor/TravelPlanner_Assets/obj/Debug/netcoreapp3.1/TravelPlanner.genruntimeconfig.cache
+/Users/jmjon/Downloads/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.deps.json
+/Users/jmjon/Downloads/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.json
+/Users/jmjon/Downloads/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.runtimeconfig.dev.json
+/Users/jmjon/Downloads/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/jmjon/Downloads/TravelPlanner/bin/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/jmjon/Downloads/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.csprojAssemblyReference.cache
+/Users/jmjon/Downloads/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfoInputs.cache
+/Users/jmjon/Downloads/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.AssemblyInfo.cs
+/Users/jmjon/Downloads/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.csproj.CoreCompileInputs.cache
+/Users/jmjon/Downloads/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.dll
+/Users/jmjon/Downloads/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.pdb
+/Users/jmjon/Downloads/TravelPlanner/obj/Debug/netcoreapp3.1/TravelPlanner.genruntimeconfig.cache
